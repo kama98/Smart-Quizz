@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Smart Quizz</string>
+    <string name="todo">TODO</string>
+    <string name="category">Category</string>
+    <string name="descrption">Descrption</string>
+    <string name="categories">Categories</string>
 </resources>

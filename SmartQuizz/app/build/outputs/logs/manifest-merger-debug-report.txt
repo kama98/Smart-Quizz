@@ -1,0 +1,136 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\PC\Desktop\SmartQuizz\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\PC\Desktop\SmartQuizz\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\PC\Desktop\SmartQuizz\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\PC\Desktop\SmartQuizz\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\4b2cea0f44af65fcee531d7d0e4bc77f\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\ffda17086c2192d12398d7c510951ae2\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\b22a3e6c9f99149146bee087b09dce7f\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\3864f541938a87f5174a8f5b269ec764\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\5b02e3266424eb04e72ed4e70884df30\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\ae3442e070f17379da12ebec2212a627\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\94316baa1090d119ddb021951b180d40\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\b28d5c5809b6458f8c1a40070beec476\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\cec5e786fdc1237a13b374549dc1826c\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\9a7596fd99acc4b795464d26224d9789\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\8b9d229a6496059f1b27a04080235ff4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\c688ea119abc59c86ac2338f28fc58ee\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\9b571df3ee2d82bbe1783dc732d5e474\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\f366ccb6a80948bb3db99efe301ce64a\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\ddd2ec3b4bc273ed4d8ca27a1c9f012c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\cfece1528dec94c96b2d21ccda93fa9a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\c45f7e9303bd3142d8875fa7f72b07ea\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\03f0e3024fee553965d6dbc535e761e9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\6a9522a935f70aa425578298fbfbd6ec\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\8e902e85f543ca28a7f23b11853c46df\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\cd588188ee6e28006374a336efa953b0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\PC\Desktop\SmartQuizz\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\PC\Desktop\SmartQuizz\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\PC\Desktop\SmartQuizz\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\PC\Desktop\SmartQuizz\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\PC\Desktop\SmartQuizz\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PC\Desktop\SmartQuizz\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\PC\Desktop\SmartQuizz\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\PC\Desktop\SmartQuizz\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\PC\Desktop\SmartQuizz\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\PC\Desktop\SmartQuizz\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\PC\Desktop\SmartQuizz\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\PC\Desktop\SmartQuizz\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\PC\Desktop\SmartQuizz\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\PC\Desktop\SmartQuizz\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\ffda17086c2192d12398d7c510951ae2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\ffda17086c2192d12398d7c510951ae2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\c688ea119abc59c86ac2338f28fc58ee\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\c688ea119abc59c86ac2338f28fc58ee\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\f366ccb6a80948bb3db99efe301ce64a\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\f366ccb6a80948bb3db99efe301ce64a\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\c688ea119abc59c86ac2338f28fc58ee\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\PC\Desktop\SmartQuizz\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\PC\Desktop\SmartQuizz\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\PC\Desktop\SmartQuizz\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\PC\Desktop\SmartQuizz\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\PC\Desktop\SmartQuizz\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\PC\Desktop\SmartQuizz\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.smartquizz.MainActivity
+ADDED from C:\Users\PC\Desktop\SmartQuizz\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\PC\Desktop\SmartQuizz\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\PC\Desktop\SmartQuizz\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\PC\Desktop\SmartQuizz\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\PC\Desktop\SmartQuizz\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\PC\Desktop\SmartQuizz\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\PC\Desktop\SmartQuizz\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\PC\Desktop\SmartQuizz\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\PC\Desktop\SmartQuizz\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\PC\Desktop\SmartQuizz\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\4b2cea0f44af65fcee531d7d0e4bc77f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\4b2cea0f44af65fcee531d7d0e4bc77f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\ffda17086c2192d12398d7c510951ae2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\ffda17086c2192d12398d7c510951ae2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\b22a3e6c9f99149146bee087b09dce7f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\b22a3e6c9f99149146bee087b09dce7f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\3864f541938a87f5174a8f5b269ec764\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\3864f541938a87f5174a8f5b269ec764\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\5b02e3266424eb04e72ed4e70884df30\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\5b02e3266424eb04e72ed4e70884df30\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\ae3442e070f17379da12ebec2212a627\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\ae3442e070f17379da12ebec2212a627\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\94316baa1090d119ddb021951b180d40\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\94316baa1090d119ddb021951b180d40\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\b28d5c5809b6458f8c1a40070beec476\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\b28d5c5809b6458f8c1a40070beec476\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\cec5e786fdc1237a13b374549dc1826c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\cec5e786fdc1237a13b374549dc1826c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\9a7596fd99acc4b795464d26224d9789\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\9a7596fd99acc4b795464d26224d9789\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\8b9d229a6496059f1b27a04080235ff4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\8b9d229a6496059f1b27a04080235ff4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\c688ea119abc59c86ac2338f28fc58ee\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\c688ea119abc59c86ac2338f28fc58ee\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\9b571df3ee2d82bbe1783dc732d5e474\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\9b571df3ee2d82bbe1783dc732d5e474\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\f366ccb6a80948bb3db99efe301ce64a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\f366ccb6a80948bb3db99efe301ce64a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\ddd2ec3b4bc273ed4d8ca27a1c9f012c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\ddd2ec3b4bc273ed4d8ca27a1c9f012c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\cfece1528dec94c96b2d21ccda93fa9a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\cfece1528dec94c96b2d21ccda93fa9a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\c45f7e9303bd3142d8875fa7f72b07ea\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\c45f7e9303bd3142d8875fa7f72b07ea\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\03f0e3024fee553965d6dbc535e761e9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\03f0e3024fee553965d6dbc535e761e9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\6a9522a935f70aa425578298fbfbd6ec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\6a9522a935f70aa425578298fbfbd6ec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\8e902e85f543ca28a7f23b11853c46df\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\8e902e85f543ca28a7f23b11853c46df\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\cd588188ee6e28006374a336efa953b0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\PC\.gradle\caches\transforms-2\files-2.1\cd588188ee6e28006374a336efa953b0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\PC\Desktop\SmartQuizz\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\PC\Desktop\SmartQuizz\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\PC\Desktop\SmartQuizz\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\PC\Desktop\SmartQuizz\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PC\Desktop\SmartQuizz\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\PC\Desktop\SmartQuizz\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\PC\Desktop\SmartQuizz\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PC\Desktop\SmartQuizz\app\src\main\AndroidManifest.xml

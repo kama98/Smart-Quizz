@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.example.smartquizz;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;

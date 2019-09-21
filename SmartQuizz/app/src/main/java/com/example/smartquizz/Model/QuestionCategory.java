@@ -1,6 +1,6 @@
 // authour: ngum buka fon nyuydze
 
-package com.example.myapplication;
+package com.example.smartquizz;
 
 import java.util.ArrayList;
 
